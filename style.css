@@ -73,9 +73,6 @@ address {
 
 .first-button:hover,
 .first-button:focus {
-    background-color: #404bbf;
+    background-color: #404bbf;cursor: pointer;
 }
 
-.first-button:active {
-    cursor: pointer;
-}
