@@ -76,10 +76,15 @@ address {
     background-color: #404bbf;cursor: pointer;
 }
 
-.second .second-title {
+.second-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42
+}
+
+.second-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
