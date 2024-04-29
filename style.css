@@ -102,6 +102,11 @@ address {
     color:#2e2f42
 }
 
-.third-img {
+.third-list {
     background-color: #ffffff;
+}
+
+.third-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
