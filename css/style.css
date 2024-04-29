@@ -126,7 +126,7 @@ address {
     letter-spacing: 0.02em;
 }
 
-.fourth-text {
+.fourth-subheading {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -135,7 +135,7 @@ address {
     color:#2e2f42
 }
 
-.fourth-subheading {
+.fourth-text {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
