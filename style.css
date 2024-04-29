@@ -41,6 +41,11 @@ body {
     color: #434455
 }
 
-.adress:hover {
+.adress:hover,
+.adress:active {
     color: #404bbf
+}
+
+address {
+    font-style: normal;
 }
